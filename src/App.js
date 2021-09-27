@@ -20,6 +20,7 @@ const data = [
   { id: 4, personaje: "Monkey D. Luffy", anime: "One Piece" },
   { id: 5, personaje: "Edward Elric", anime: "Fullmetal Alchemist: Brotherhood"},
   { id: 6, personaje: "Seto Kaiba", anime: "Yu-Gi-Oh!" },
+  { id: 7, personaje: "Light Yagami", anime: "Death Note"}
 ];
 
 class App extends React.Component {
